@@ -1,7 +1,7 @@
 Hi 👋 My name is Elexes
 =======================
 
-Full-Stack Web Developer
+Front-End Web Developer
 ------------------------
 
 * 🌍  I'm based in US
