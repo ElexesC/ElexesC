@@ -4,7 +4,7 @@ Hi 👋 My name is Elexes
 Front-End Web Developer
 ------------------------
 
-* 🌍  I'm based in US
+* 🌍  I'm based in the US
 
 <a href="https://www.twitter.com/lexesmarie_22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/lexesmarie_22?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
