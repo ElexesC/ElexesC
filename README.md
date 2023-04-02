@@ -23,7 +23,7 @@ I am a Front End Developer passionate about building websites and other innovati
 </p>
   
 
-### 💻Tech Stack 
+### 💻Tech Stack:
 
 Languages
 
