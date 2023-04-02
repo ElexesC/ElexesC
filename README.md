@@ -1,7 +1,8 @@
 <p align="center"><img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="200"/></p>
 <p align="center"></p>
 
-Hi 👋 My name is Elexes
+<h1 align="center">Hi, I'm Elexes! <img src="https://media.giphy.com/media/Vhd10uVrDjMhAG7IyV/giphy.gif" width="40"></h1>
+
 =======================
 
 Front-End Web Developer
