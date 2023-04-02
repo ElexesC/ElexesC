@@ -1,3 +1,4 @@
+<p align="center"><img src=["https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"](https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif) width="100"/></p>
 Hi 👋 My name is Elexes
 =======================
 
