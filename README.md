@@ -1,16 +1,29 @@
+
+<h1 align="center">Hi, I'm Elexes! <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" width="40"></h1>
 <p align="center"><img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="200"/></p>
 <p align="center"></p>
 
-<h1 align="center">Hi, I'm Elexes! <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" width="40"></h1>
-
-Front-End Web Developer
+### :woman_technologist: &nbsp;About Me: 
 ------------------------
 
-* 🌍  I'm based in the US
+I am a Front End Developer passionate about building websites and other innovative web applications. 
 
+* 🌍  Based in the Indiana, USA
+* 📚  Currently learning React and Node.js
+* 🧩  I love finding solutions to complex problems
+* 🤝  Looking to collaborate on Front End projects 
+* 📪  How to reach me: elexesc@gmail.com 
+
+### Let's Connect: 
+<p align="center">
 <a href="https://www.twitter.com/lexesmarie_22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/lexesmarie_22?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+<a href="https://www.linkedin.com/in/elexes-coleman/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/elexescoleman/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://discord.com/users/dolly#5183" target="_blank"><img alt="" src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="vertical-align:center" /></a>
+</p>
+  
 
 ### Skills
 
