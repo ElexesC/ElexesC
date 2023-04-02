@@ -16,12 +16,10 @@ I am a Front End Developer passionate about building websites and other innovati
 
 ### Let's Connect: 
 <p align="center">
-<a href="https://www.twitter.com/lexesmarie_22" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/lexesmarie_22?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-<a href="https://www.linkedin.com/in/elexes-coleman/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://www.twitter.com/lexesmarie_22" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://www.instagram.com/elexescoleman/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="vertical-align:center" /></a>
-<a href="https://discord.com/users/dolly#5183" target="_blank"><img alt="" src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/elexes-coleman/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://discord.com/users/Dolly#5183" target="_blank"><img alt="" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="vertical-align:center" /></a>
 </p>
   
 
@@ -39,10 +37,6 @@ src="https://img.shields.io/twitter/follow/lexesmarie_22?logo=twitter&style=for-
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.codepen.io/elexesc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Dolly#5183" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/elexesc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/elexescoleman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elexes-coleman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/lexesmarie_22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
