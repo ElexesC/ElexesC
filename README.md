@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="200"/></p>
 <p align="center"></p>
 
-<h1 align="center">Hi, I'm Elexes! <img src="https://media.giphy.com/media/Vhd10uVrDjMhAG7IyV/giphy.gif" width="40"></h1>
+<h1 align="center">Hi, I'm Elexes! <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" width="60"></h1>
 
 =======================
 
