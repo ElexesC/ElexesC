@@ -6,12 +6,12 @@
 ### 👩‍💻About Me: 
 ------------------------
 
-I am a Front End Developer passionate about building websites and other innovative web applications. 
+I am a Cybersecurity Specialist passionate about building and securing networks.
 
-* 🌍  Based in the Indiana, USA
-* 📚  Currently learning React and Node.js starting to look into Back End Development
+* 🌍  Based in Indiana, USA
+* 📚  CompTIA Network+ Certified; CompTIA Security+ Certified 
 * 🧩  I love finding solutions to complex problems
-* 🤝  Looking to collaborate on Front End projects 
+* 🤝  Looking to collaborate on network projects 
 * 📪  How to reach me: elexesc@gmail.com 
 
 ### 🌐Let's Connect: 
